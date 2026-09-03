@@ -20,7 +20,9 @@
 
 | 주차 | 제목 | Colab |
 |:---:|:---|:---:|
-| — | *강의 진행에 따라 추가됩니다.* | — |
+| 01 | 구글 코랩 첫걸음 | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-comp-think-prac/blob/main/01/lect01-prac.ipynb) |
+
+*(이후 주차는 강의 진행에 따라 추가됩니다.)*
 
 ## 안내
 
