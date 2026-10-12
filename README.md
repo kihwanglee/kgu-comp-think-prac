@@ -26,6 +26,7 @@
 | 04 | 연산자와 조건문 (관계·논리 연산자·if-elif-else) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-comp-think-prac/blob/main/04/lect04-prac.ipynb) |
 | 05 | 조건문 다시 보기와 반복문 맛보기 (조건문 심화·중첩·for문 도입) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-comp-think-prac/blob/main/05/lect05-prac.ipynb) |
 | 06 | 리스트와 반복문 (리스트·인덱싱·슬라이싱·for·range·중첩 for·구구단) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-comp-think-prac/blob/main/06/lect06-prac.ipynb) |
+| 07 | 리스트·반복 다시 보기와 딕셔너리 (조건 세기·값 모으기·최댓값·중첩 for·구구단·딕셔너리) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kihwanglee/kgu-comp-think-prac/blob/main/07/lect07-prac.ipynb) |
 
 *(이후 주차는 강의 진행에 따라 추가됩니다.)*
 
